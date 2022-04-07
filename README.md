@@ -15,6 +15,6 @@ Jennie - homepage and horoscope page HTML, CSS <br />
 Max - horoscope page JavaScript and HTML<br />
 Ryan - quote page JavaScript, HTML, and CSS
 ## Website Link:
-https://rpodols.github.io/the-zen-project/index.html
+https://maxafath.github.io/the-zen-project/
 ## Website Image:
 ![screenshot](https://user-images.githubusercontent.com/96963955/162092882-d6b4b82e-2e3e-4f02-9991-36e5ed0acef6.png)
